@@ -49,7 +49,7 @@ Todo Contenido en este repositorio libre de virus analizado con Windows Defender
 [4]:https://bsky.app/profile/orlandopf96.bsky.social
 [5]:https://x.com/pupo56
 [6]:https://wa.me/+51668065
-[7]:https://t.m/orlandopf96
+[7]:https://t.me/orlandopf96
 
 
 <div align="center">
