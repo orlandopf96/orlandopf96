@@ -8,6 +8,7 @@
 <img align="center" src=https://media.tenor.com/rCaIUO0MP-EAAAAC/mario-pixel-art.gif)
 </p>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=orlandopf96=Profile%20views&color=0e75b6&style=flat" alt="orlandopf96" /> </p>
 
 Here are some ideas to get you started:
 
