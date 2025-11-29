@@ -23,10 +23,10 @@ Here are some ideas to get you started:
 - ⚡ Dato curioso: ... -->
 
 
-## 🛠️ **orlandopf96**
+## 🛠️ **Acerca de orlandopf96**
 Contenido libre de virus analizado con Windows Defender y probados en los laboratorios de orlandopf96 © 2025
 
-
+## **Redes sociales**
 
 <div align="center">
 
