@@ -38,9 +38,9 @@ Contenido libre de virus analizado con Windows Defender y probados en los labora
 
 [1]:https://github.com/orlandopf96
 [2]:https://discord.gg/dQ5389D7
-[3]: https://www.reddit.com/r/
-[4]: https://bsky.app/profile/
-[5]: https://twitter.com/
+[3]:https://www.reddit.com/user/RevenueGrand2693/
+[4]:https://bsky.app/profile/orlandopf96.bsky.social
+[5]:https://x.com/pupo56
 
 
 
