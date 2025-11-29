@@ -1,7 +1,7 @@
 
 ## Hi there 👋
 
-## **Bienvenido a mi repositorios de GitHub**
+# **Bienvenido a mi repositorios de GitHub.**
 <br/>
 <br/>
 <p align="center">
