@@ -1,8 +1,7 @@
 ## Hi there 👋
 
-# **orlandopf96**
 
-**Bienvenido a mi repositorios de GitHub**
+# **Bienvenido a mi repositorios de GitHub**
 
 <br/>
 <br/>
