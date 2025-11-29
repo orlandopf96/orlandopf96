@@ -5,7 +5,7 @@
 **Bienvenido a mi repositorio**
 
 <!-- cover image -->
-<img src="https://user-images.githubusercontent.com/109414032/196632875-8f0cb8be-4614-43c8-ad27-f24de1807248.png" alt="KARTIK DEV cover image" />
+<img src="https://user-images.githubusercontent.com/109414032/196632875-8f0cb8be-4614-43c8-ad27-f24de1807248.png" alt="orlandopf96 cover image" />
 <!-- end cover image -->
 
 Here are some ideas to get you started:
@@ -18,10 +18,6 @@ Here are some ideas to get you started:
 - 📫 Cómo contactarme: ...
 - 😄 Pronombres:...
 - ⚡ Dato curioso: ... -->
-
-<!-- end github analytics -->
-
-![github contribution grid snake animation](https://raw.githubusercontent.com/orlandopf96/orlandopf96/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/orlandopf96/orlandopf96/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
 
 ## 🛠️ **orlandopf96**
