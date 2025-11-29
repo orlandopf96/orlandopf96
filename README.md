@@ -2,6 +2,7 @@
 ## Hi there 👋
 
 # **Bienvenido a mi repositorios de GitHub.**
+**Cubano 🇨🇺 de las tunas  aficionado al mundo de la informática y la tecnología servicios técnicos y de software para PC.**
 <br/>
 <br/>
 <p align="center">
