@@ -32,18 +32,21 @@ Todo Contenido en este repositorio libre de virus analizado con Windows Defender
 [![1.3]][3]
 [![1.4]][4]
 [![1.5]][5]
+[![1.6]][6]
 
 [1.1]:https://massgrave.dev/img/logo_github.png (GitHub)
 [1.2]:https://massgrave.dev/img/logo_discord.png (Chat with us without signup)
 [1.3]: https://massgrave.dev/img/logo_reddit.png (Reddit)
 [1.4]: https://massgrave.dev/img/logo_bluesky.png (Bluesky)
 [1.5]: https://massgrave.dev/img/logo_x.png (Twitter)
+[1.6]:https://share.google/images/Omheyzo6KqyyBtuft
 
 [1]:https://github.com/orlandopf96
 [2]:https://discord.gg/dQ5389D7
 [3]:https://www.reddit.com/user/RevenueGrand2693/
 [4]:https://bsky.app/profile/orlandopf96.bsky.social
 [5]:https://x.com/pupo56
+[6]:https://wa.me/+51668065
 
 
 <div align="center">
