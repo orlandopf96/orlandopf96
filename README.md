@@ -4,9 +4,6 @@
 
 **Bienvenido a mi repositorio**
 
-<!-- cover image -->
-<img src="https://user-images.githubusercontent.com/109414032/196632875-8f0cb8be-4614-43c8-ad27-f24de1807248.png" alt="orlandopf96 cover image" />
-<!-- end cover image -->
 
 Here are some ideas to get you started:
 
