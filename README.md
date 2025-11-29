@@ -2,9 +2,6 @@
 ## Hi there 👋
 
 # **Bienvenido a mi repositorios de GitHub.**
-
-<a href="https://www.twitch.tv/orlandopf96" target="_blank" rel="noreferrer"><img
-
 <br/>
 <br/>
 <p align="center">
