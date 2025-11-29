@@ -1,8 +1,7 @@
-## Hi there 👋
 
 
-# **Bienvenido a mi repositorios de GitHub**
 
+## **Bienvenido a mi repositorios de GitHub**
 <br/>
 <br/>
 <p align="center">
@@ -25,7 +24,7 @@ Here are some ideas to get you started:
 ## 🛠️ **Acerca de orlandopf96**
 Todo Contenido en este repositorio libre de virus analizado con Windows Defender y probados en los laboratorios de orlandopf96 © 2025
 
-## **Redes sociales**
+## **Redes sociales.**
 
 <div align="center">
 
@@ -48,6 +47,9 @@ Todo Contenido en este repositorio libre de virus analizado con Windows Defender
 [5]:https://x.com/pupo56
 
 
+
+
+## Hi there 👋
 
 <!--
 **orlandopf96/orlandopf96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
