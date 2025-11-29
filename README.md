@@ -33,6 +33,7 @@ Todo Contenido en este repositorio libre de virus analizado con Windows Defender
 [![1.4]][4]
 [![1.5]][5]
 [![1.6]][6]
+[![1.7]][7]
 
 [1.1]:https://massgrave.dev/img/logo_github.png (GitHub)
 [1.2]:https://massgrave.dev/img/logo_discord.png (Chat with us without signup)
@@ -40,6 +41,7 @@ Todo Contenido en este repositorio libre de virus analizado con Windows Defender
 [1.4]: https://massgrave.dev/img/logo_bluesky.png (Bluesky)
 [1.5]: https://massgrave.dev/img/logo_x.png (Twitter)
 [1.6]: https://img.icons8.com/?size=100&id=16713&format=png&color=000000
+[1.7]: https://iconos8.es/icon/lUktdBVdL4Kb/telegram
 
 [1]:https://github.com/orlandopf96
 [2]:https://discord.gg/dQ5389D7
@@ -47,6 +49,7 @@ Todo Contenido en este repositorio libre de virus analizado con Windows Defender
 [4]:https://bsky.app/profile/orlandopf96.bsky.social
 [5]:https://x.com/pupo56
 [6]:https://wa.me/+51668065
+[7]:
 
 
 <div align="center">
