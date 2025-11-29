@@ -47,7 +47,8 @@ Todo Contenido en este repositorio libre de virus analizado con Windows Defender
 [5]:https://x.com/pupo56
 
 
-
+<div align="center">
+Orlando PC software 2025 ©
 
 
 
