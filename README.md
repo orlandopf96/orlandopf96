@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 
 ## 🛠️ **Acerca de orlandopf96**
-Contenido libre de virus analizado con Windows Defender y probados en los laboratorios de orlandopf96 © 2025
+Todo Contenido en este repositorio libre de virus analizado con Windows Defender y probados en los laboratorios de orlandopf96 © 2025
 
 ## **Redes sociales**
 
