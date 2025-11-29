@@ -20,7 +20,6 @@ Here are some ideas to get you started:
 - 😄 Pronombres:...
 - ⚡ Dato curioso: ... -->
 
-
 ## 🛠️ **Acerca de orlandopf96**
 Todo Contenido en este repositorio libre de virus analizado con Windows Defender y probados en los laboratorios de orlandopf96 © 2025
 
