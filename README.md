@@ -3,6 +3,9 @@
 
 # **Bienvenido a mi repositorios de GitHub.**
 **Cubano 🇨🇺 de las tunas  aficionado al mundo de la informática y la tecnología servicios técnicos y de software para PC.**
+
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+
 <br/>
 <br/>
 <p align="center">
