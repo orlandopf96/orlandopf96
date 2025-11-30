@@ -3,25 +3,12 @@
 
 # **Bienvenido a mi repositorios de GitHub.**
 **Cubano 🇨🇺 de las tunas  aficionado al mundo de la informática y la tecnología servicios técnicos y de software para PC.**
-
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-
 <br/>
 <br/>
 <p align="center">
 <img align="center" src=https://media.tenor.com/rCaIUO0MP-EAAAAC/mario-pixel-art.gif)
 </p>
-
-Here are some ideas to get you started:
-
-- 🔭 Actualmente estoy trabajando en...
-- 🌱 Actualmente estoy aprendiendo...
-- 👯 Estoy buscando colaborar en...
-- 🤔 Busco ayuda con...
-- 💬 Pregúntame sobre...
-- 📫 Cómo contactarme: ...
-- 😄 Pronombres:...
-- ⚡ Dato curioso: ... -->
 
 ## 🛠️ **Acerca de orlandopf96**
 Todo Contenido en este repositorio libre de virus analizado con Windows Defender y probados en los laboratorios de orlandopf96 © 2025
