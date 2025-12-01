@@ -24,7 +24,6 @@ Todo Contenido en este repositorio libre de virus analizado con Windows Defender
 [![1.6]][6]
 [![1.7]][7]
 
-
 [1.1]:https://massgrave.dev/img/logo_github.png (GitHub)
 [1.2]:https://massgrave.dev/img/logo_discord.png (Chat with us without signup)
 [1.3]:https://massgrave.dev/img/logo_reddit.png (Reddit)
