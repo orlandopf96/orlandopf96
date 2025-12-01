@@ -1,4 +1,4 @@
-
+ya
 ## Hi there 👋
 
 # **Bienvenido a mi repositorios de GitHub.**
@@ -25,14 +25,13 @@ Todo Contenido en este repositorio libre de virus analizado con Windows Defender
 [![1.7]][7]
 
 
-[1.1]: https://massgrave.dev/img/logo_github.png (GitHub)
-[1.2]: https://massgrave.dev/img/logo_discord.png (Chat with us without signup)
-[1.3]: https://massgrave.dev/img/logo_reddit.png (Reddit)
-[1.4]: https://massgrave.dev/img/logo_bluesky.png (Bluesky)
-[1.5]: https://massgrave.dev/img/logo_x.png (Twitter)
-[1.6]: https://img.icons8.com/?size=100&id=BkugfgmBwtEI&format=png&color=000000 (whatsApp)
-[1.7]: https://img.icons8.com/?size=100&id=25n4hOEoY7ss&format=png&color=000000 (Telegram)
-
+[1.1]:https://massgrave.dev/img/logo_github.png (GitHub)
+[1.2]:https://massgrave.dev/img/logo_discord.png (Chat with us without signup)
+[1.3]:https://massgrave.dev/img/logo_reddit.png (Reddit)
+[1.4]:https://massgrave.dev/img/logo_bluesky.png (Bluesky)
+[1.5]:https://massgrave.dev/img/logo_x.png (Twitter)
+[1.6]:https://img.icons8.com/?size=100&id=BkugfgmBwtEI&format=png&color=000000 (whatsApp)
+[1.7]:https://img.icons8.com/?size=100&id=25n4hOEoY7ss&format=png&color=000000 (Telegram)
 
 [1]:https://github.com/orlandopf96
 [2]:https://discord.gg/dQ5389D7
