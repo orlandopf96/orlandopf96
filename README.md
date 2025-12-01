@@ -25,12 +25,11 @@ Todo Contenido en este repositorio libre de virus analizado con Windows Defender
 [![1.7]][7]
 
 
-
-[1.1]:https://img.icons8.com/?size=100&id=12599&format=png&color=000000 (GitHub)
-[1.2]:https://img.icons8.com/?size=100&id=M725CLW4L7wE&format=png&color=000000 (Chat with us without signup)
-[1.3]: https://img.icons8.com/?size=100&id=8weyx4k1jpJy&format=png&color=000000 (Reddit)
-[1.4]: https://img.icons8.com/?size=100&id=undefined&format=png&color=000000 (Bluesky)
-[1.5]: https://img.icons8.com/?size=100&id=3ovMFy5JDSWq&format=png&color=000000 (Twitter)
+[1.1]: https://massgrave.dev/img/logo_github.png (GitHub)
+[1.2]: https://massgrave.dev/img/logo_discord.png (Chat with us without signup)
+[1.3]: https://massgrave.dev/img/logo_reddit.png (Reddit)
+[1.4]: https://massgrave.dev/img/logo_bluesky.png (Bluesky)
+[1.5]: https://massgrave.dev/img/logo_x.png (Twitter)
 [1.6]: https://img.icons8.com/?size=100&id=BkugfgmBwtEI&format=png&color=000000 (whatsApp)
 [1.7]: https://img.icons8.com/?size=100&id=25n4hOEoY7ss&format=png&color=000000 (Telegram)
 
@@ -40,7 +39,7 @@ Todo Contenido en este repositorio libre de virus analizado con Windows Defender
 [3]:https://www.reddit.com/user/RevenueGrand2693/
 [4]:https://bsky.app/profile/orlandopf96.bsky.social
 [5]:https://x.com/pupo56
-[6]:https://wa.me/+51668065
+[6]:https://wa.me/+5351668065
 [7]:https://t.me/orlandopf96
 
 
