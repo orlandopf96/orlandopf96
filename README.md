@@ -16,12 +16,13 @@ Todo Contenido en este repositorio libre de virus analizado con Windows Defender
 ## **Mis redes sociales.**
 
 <div align="center">
+
+
 [![1.1]][1]
 [![1.2]][2]
 [![1.3]][3]
 [![1.4]][4]
 [![1.5]][5]
-
 [![1.6]][6]
 [![1.7]][7]
 
