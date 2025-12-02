@@ -33,7 +33,7 @@ Todo Contenido en este repositorio libre de virus analizado con Windows Defender
 [1.5]:https://massgrave.dev/img/logo_x.png (Twitter)
 [1.6]:https://img.icons8.com/?size=100&id=BkugfgmBwtEI&format=png&color=000000 (whatsApp)
 [1.7]:https://img.icons8.com/?size=100&id=25n4hOEoY7ss&format=png&color=000000 (Telegram)
-[1.8]:https://skillicons.dev/icons?i=instagram"(Instagram)
+[1.8]:https://upload.wikimedia.org/wikipedia/commons/9/95/Instagram_logo_2022.svg (Instagram)
 
 [1]:https://github.com/orlandopf96
 [2]:https://discord.gg/dQ5389D7
